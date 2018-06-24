@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+
+    tools:context="merhabadunya.com.alarmprojects.AcilisEkran">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="277dp"
+        android:layout_height="279dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/alarmnotif" />
+
+    <TextView
+        android:id="@+id/logoText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity=""
+        android:fontFamily="casual"
+        android:text="you need to know the words to wake up"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold" />
+</LinearLayout>

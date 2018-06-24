@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Cok_Zayif">#ff0000</color>
+    <color name="Zayif">#cd0000</color>
+    <color name="Saglikli_ideal_kilo">#00ff00</color>
+    <color name="Normal_Kilodan_Fazla">#b22222</color>
+    <color name="Fazla_Kilo">#ff3030</color>
+    <color name="Cok_Fazla_Kilolu">#ee2c2c</color>
+    <color name="Yuksek_Risk">#8b1a1a</color>
+    <color name="Acil_Tedavi_Kilo">#cd0000</color>
+    <color name="Super_Asiri_Kilo">#ff0000</color>
+</resources>

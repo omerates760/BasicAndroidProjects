@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">BaseDinamikListview</string>
+    <string-array name="ulkeAdlari">
+        <item>Ülke 1</item>
+        <item>Ülke 2</item>
+        <item>Ülke 3</item>
+        <item>Ülke 4</item>
+        <item>Ülke 5</item>
+        <item>Ülke 6</item>
+        <item>Ülke 7</item>
+        <item>Ülke 8</item>
+        <item>Ülke 9</item>
+        <item>Ülke 10</item>
+        <item>Ülke 11</item>
+        <item>Ülke 12</item>
+        <item>Ülke 13</item>
+        <item>Ülke 14</item>
+        <item>Ülke 15</item>
+        <item>Ülke 16</item>
+        <item>Ülke 17</item>
+        <item>Ülke 18</item>
+        <item>Ülke 19</item>
+        <item>Ülke 20</item>
+    </string-array>
+
+    <string-array name="ulke_tanimlari">
+        <item>Ülkenin Tanımı 1</item>
+        <item>Ülkenin Tanımı 2</item>
+        <item>Ülkenin Tanımı 3</item>
+        <item>Ülkenin Tanımı 4</item>
+        <item>Ülkenin Tanımı 5</item>
+        <item>Ülkenin Tanımı 6</item>
+        <item>Ülkenin Tanımı 7</item>
+        <item>Ülkenin Tanımı 8</item>
+        <item>Ülkenin Tanımı 9</item>
+        <item>Ülkenin Tanımı 10</item>
+        <item>Ülkenin Tanımı 11</item>
+        <item>Ülkenin Tanımı 12</item>
+        <item>Ülkenin Tanımı 13</item>
+        <item>Ülkenin Tanımı 14</item>
+        <item>Ülkenin Tanımı 15</item>
+        <item>Ülkenin Tanımı 16</item>
+        <item>Ülkenin Tanımı 17</item>
+        <item>Ülkenin Tanımı 18</item>
+        <item>Ülkenin Tanımı 19</item>
+        <item>Ülkenin Tanımı 20</item>
+    </string-array>
+</resources>

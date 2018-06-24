@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="merhabadunya.com.listactivty.Tek_Satir">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="95dp"
+        android:layout_height="88dp"
+        app:srcCompat="@android:drawable/sym_action_call" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="84dp"
+        android:layout_weight="1"
+        android:id="@+id/txt"
+        android:textSize="35dp"
+        android:text="TextView" />
+</LinearLayout>

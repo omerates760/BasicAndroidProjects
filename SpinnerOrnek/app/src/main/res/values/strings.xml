@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpinnerOrnek</string>
+    <string-array name="Gunler">
+        <item>PAZARTESİ</item>
+        <item>SALI</item>
+        <item>ÇARŞAMBA</item>
+        <item>PERŞEMBE</item>
+        <item>CUMA</item>
+        <item>CUMARTESİ</item>
+        <item>PAZAR</item>
+
+    </string-array>
+    <string-array name="Mevsimler">
+        <item>İLKBAHAR</item>
+        <item>YAZ</item>
+        <item>SONBAHAR</item>
+        <item>KIŞ</item>
+
+
+
+    </string-array>
+</resources>

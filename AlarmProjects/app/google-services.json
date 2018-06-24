@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1017668863138",
+    "firebase_url": "https://myalarm-34f47.firebaseio.com",
+    "project_id": "myalarm-34f47",
+    "storage_bucket": "myalarm-34f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017668863138:android:e7b735ce59d153ab",
+        "android_client_info": {
+          "package_name": "merhabadunya.com.alarmprojects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017668863138-sc75e2ekit0h3dravlbqv1e041fmj14v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1PxNYNYdFVwfAbSRsmPZNJ7EynLvWRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

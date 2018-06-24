@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8B814C"
+    android:id="@+id/activity_main"
+    tools:context="merhabadunya.com.layoutinflater.MainActivity">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/My_Layout"
+      android:background="#FF4500"
+      android:orientation="horizontal">
+
+
+  </LinearLayout>
+
+</RelativeLayout>

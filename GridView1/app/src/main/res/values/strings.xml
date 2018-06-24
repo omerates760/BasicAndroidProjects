@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">GridView1</string>
+    <string-array name="ulkeAdlari">
+
+        <item>Ülke 1</item>
+
+        <item>Ülke 2</item>
+
+        <item>Ülke 3</item>
+
+        <item>Ülke 4</item>
+
+        <item>Ülke 5</item>
+
+        <item>Ülke 6</item>
+
+        <item>Ülke 7</item>
+
+        <item>Ülke 8</item>
+
+        <item>Ülke 9</item>
+
+        <item>Ülke 10</item>
+
+        <item>Ülke 11</item>
+
+        <item>Ülke 12</item>
+
+        <item>Ülke 13</item>
+
+        <item>Ülke 14</item>
+
+        <item>Ülke 15</item>
+
+
+
+    </string-array>
+</resources>

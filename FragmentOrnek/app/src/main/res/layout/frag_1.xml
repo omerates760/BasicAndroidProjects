@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="ANASAYFA"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/AnaSayfa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:text="ANSAYFA" />
+
+    <Button
+        android:id="@+id/Hakkimizda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_below="@+id/AnaSayfa"
+        android:layout_marginTop="39dp"
+        android:text="HAKKIMIZDA" />
+
+    <Button
+        android:id="@+id/Referanslar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Hakkimizda"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:text="REFERANSLAR" />
+
+    <Button
+        android:id="@+id/Iletisim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/AnaSayfa"
+        android:layout_below="@+id/Referanslar"
+        android:layout_marginTop="44dp"
+        android:text="İLETİŞİM" />
+</RelativeLayout>

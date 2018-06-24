@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutInflater</string>
+    <string name="title_activity_sub">Sub</string>
+</resources>
